@@ -1,0 +1,4 @@
+FILTER,DATA TYPE,EXAMPLE,NOTES
+tournament_id,integer,,
+event_id,integer,,
+event_ids,comma separated list of integers,"2,6,34,3,75",maximum 100 ids

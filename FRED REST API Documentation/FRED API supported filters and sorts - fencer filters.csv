@@ -1,0 +1,17 @@
+FILTER,DATA TYPE,EXAMPLE,NOTES
+      fencer_ids,comma separated list of integers,"2,6,34,3,75",maximum 100 ids
+      user_id,integer,,
+      usfa_id,integer,,
+      user_ids,comma separated list of integers,"2,6,34,3,75",maximum 100 ids
+      first_name,,,case insensitive full string match
+      first_name_contains,,,case insensitive substring match
+      last_name,,,case insensitive full string match
+      last_name_contains,,,case insensitive substring match
+      gender,"either of ""M"" or ""F""",,case insensitive
+      club_id,integer,,
+      club_ids,comma separated list of integers,"2,6,34,3,75",maximum 100 ids
+      division_id,integer,,
+      division_ids,comma separated list of integers,"2,6,34,3,75",maximum 100 ids
+      birthyear,four digit year,"""1970""",returns fencers whose birth year is known to be exactly the given year
+      birthyear_gte,four digit year,"""1970""",returns fencers whose birth year is known to be after or equal to the given year
+      birthyear_lte,four digit year,"""1970""",returns fencers whose birth year is known to be before or equal to the given year
