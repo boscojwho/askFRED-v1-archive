@@ -1,0 +1,87 @@
+{
+  "filters": {
+    "_sort": "start_date_asc"
+  },
+  "total_matched": 42043,
+  "page": 11207,
+  "per_page": 1,
+  "tournaments": [
+    {
+      "id": 12670,
+      "name": "NJFA Wednesday Div3 Epee",
+      "start_date": "2011-01-12",
+      "end_date": "",
+      "comments": "Wednesday Evening Div3 Epee.  Close of check-in promptly 6:00!!  Open to all fencers born 1997 or before with D, E, or no rating.  Events mixed if less than 6 fencers.Pre-register AND PAY and receive 2 slices pizza and soft drink",
+      "prereg_open": "2010-09-05",
+      "prereg_close": "2011-01-11",
+      "authority": "USFA",
+      "is_fee_required": true,
+      "is_roc": false,
+      "is_baycup": false,
+      "is_visible": true,
+      "is_cancelled": true,
+      "is_accepting_fees_online": true,
+      "fee": 0,
+      "fee_currency": "USD",
+      "more_info": "WEDNESDAY EVENING DIV3 EPEE\r\nClose of check-in 6:00 p.m.\r\n\r\n\r\nBeginners tournament guides: \r\n(1) fencing.net:\r\nhttp:\/\/www.fencing.net.s3.amazonaws.com\/downloads\/BeginnerGuide-Tournament.pdf\r\n(2) Sam Signorelli:\r\nhttp:\/\/www.homfencing.com\/Prep_Package.pdf\r\n\r\nENTRY\r\nOpen to all fencers born 1997 or before and without a rating.   This event is sanctioned by the NJ Division and ratings can be awarded.  \r\n\r\nCurrent valid USFA membership is required.  You MUST show your USFA card or have proof that payment has been made.   You may join\/renew at the door, however please arrive with a completed membership form (parent signature required for fencers under age 18).  USFA membership forms can be downloaded at http:\/\/usfencing.org\/us-fencing-membership,\r\nor plan to come early to complete required paperwork.  Please have separate checks made out to USFA or use your credit card for your USFA membership payment.\r\n\r\nAll fencers must wear required fencing attire and bring at least 2 working weapons and 2 working body cords.\r\n\r\n** Liability waiver - Upon entering this tournament you agree to abide by the current rules of the USFA and other applicable rules instituted by NJFA.  You acknowledge you are entering this tournament at your own risk and release the USFA and its sponsors, NJFA, and referees from any liability.   With entry you give consent to NJFA to obtain medical care from any licensed physician, hospital or clinic for any injury or illness that may arise during activities associated with this tournament. **\r\n\r\nFEES\r\nPre-register and receive 2 slices pizza and soft drink\r\n$25 if preregistered AND paid through FRED. \r\nPreregistration closes 1\/11\/2011\r\n$40 if walk-in without preregistration \r\n\r\nPayments made at the door must be in cash or check only - CREDIT CARDS WILL NOT BE ACCEPTED for payments at the door. \r\n\r\nTOURNAMENT FORMAT\r\nEvents will be mixed if less than 6 fencers\r\nOne round of pools with 100% promotion to Direct Elimination rounds.  \r\nNo fence-off for third place; Medals awarded to 3rd place. \r\n\r\nFencers are responsible for ensuring accuracy of all posted information and must report errors to the bout committee immediately. Fencer signature on pool score sheets and DE bout slip implies accuracy.\r\n\r\nLOCATION\r\nNew Jersey Fencing Alliance is located at 50-58 Burnett Avenue, just off Springfield Avenue via Vermont Street,  (Note, use 54 Burnett Avenue for Mapquest); Maplewood, NJ.  NJFA is conveniently located near all major highways in NJ, NY, CT, and Pennsylvania.   NJFA is an appx 30 minute train ride from NYC Penn Station via NJ Transit:  http:\/\/www.njtransit.com.  NJFA is 1.5 miles from the Maplewood Train Station.  \r\n\r\nNJFA is a state-of-the art fencing salle offering grounded metal strips with machines located in the middle as well as repeater lights at each end.   FREE Wireless Internet service, FREE parking, on-site Fencing Store.\r\n\r\nvisit www.njfencingalliance.com\r\nNJFA is a member of the NJ Division of the USFA:  http:\/\/njfencing.org\/index.html",
+      "venue": {
+        "name": "New Jersey Fencing Alliance",
+        "address": "54 Burnett Avenue",
+        "city": "Maplewood",
+        "state": "NJ",
+        "zip": "07040",
+        "country": "USA",
+        "timezone": "America\/New_York",
+        "latitude": 40.72081,
+        "longitude": -74.2593591,
+        "geocode_precision": "street"
+      },
+      "division": {
+        "id": 29,
+        "name": "New Jersey",
+        "abbrev": "NJ",
+        "auth": "USFA"
+      },
+      "events": [
+        {
+          "id": 53919,
+          "tournament_id": 12670,
+          "tournament": "NJFA Wednesday Div3 Epee",
+          "full_name": "Div3 Senior Women's Epee",
+          "short_name": "Dv3SrWE",
+          "weapon": "Epee",
+          "gender": "Women",
+          "age_limit": "Senior",
+          "rating_limit": "Div3",
+          "rating": "E1",
+          "rating_prediction": null,
+          "entries": 0,
+          "prereg_count": 0,
+          "is_team": false,
+          "description": "",
+          "close_of_reg": "2011-01-12T18:00:00-05:00",
+          "fee": "25.00"
+        },
+        {
+          "id": 53920,
+          "tournament_id": 12670,
+          "tournament": "NJFA Wednesday Div3 Epee",
+          "full_name": "Div3 Senior Men's Epee",
+          "short_name": "Dv3SrME",
+          "weapon": "Epee",
+          "gender": "Men",
+          "age_limit": "Senior",
+          "rating_limit": "Div3",
+          "rating": "D1",
+          "rating_prediction": null,
+          "entries": 0,
+          "prereg_count": 0,
+          "is_team": false,
+          "description": "",
+          "close_of_reg": "2011-01-12T18:00:00-05:00",
+          "fee": "25.00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "filters": {
+    "_sort": "start_date_asc"
+  },
+  "total_matched": 42043,
+  "page": 11204,
+  "per_page": 1,
+  "tournaments": [
+    {
+      "id": 13026,
+      "name": "EUF Gladius Cup (Mixed Foil and Epee D and Under)",
+      "start_date": "2011-01-09",
+      "end_date": "",
+      "comments": "Come and fence in EUF's Mixed D and Under Foil and Epee tournament. $35 if you pre-register and $45 for walk-ins.",
+      "prereg_open": "2010-09-22",
+      "prereg_close": "2011-01-08",
+      "authority": "USFA",
+      "is_fee_required": false,
+      "is_roc": false,
+      "is_baycup": false,
+      "is_visible": true,
+      "is_cancelled": false,
+      "is_accepting_fees_online": false,
+      "more_info": "",
+      "venue": {
+        "name": "Empire United Fencing",
+        "address": "145 West 30th Street, 3rd Floor",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "USA",
+        "timezone": "America\/New_York",
+        "latitude": "",
+        "longitude": "",
+        "geocode_precision": "none"
+      },
+      "division": {
+        "id": 24,
+        "name": "Metropolitan NYC",
+        "abbrev": "METRO",
+        "auth": "USFA"
+      },
+      "events": [
+        {
+          "id": 55188,
+          "tournament_id": 13026,
+          "tournament": "EUF Gladius Cup (Mixed Foil and Epee D and Under)",
+          "full_name": "Div3 Senior Mixed Epee",
+          "short_name": "Dv3SrMxE",
+          "weapon": "Epee",
+          "gender": "Mixed",
+          "age_limit": "Senior",
+          "rating_limit": "Div3",
+          "rating": "E1",
+          "rating_prediction": null,
+          "entries": 8,
+          "prereg_count": 0,
+          "is_team": false,
+          "description": "",
+          "close_of_reg": "2011-01-09T10:00:00-05:00",
+          "fee": "0.00"
+        },
+        {
+          "id": 55189,
+          "tournament_id": 13026,
+          "tournament": "EUF Gladius Cup (Mixed Foil and Epee D and Under)",
+          "full_name": "Div3 Senior Mixed Foil",
+          "short_name": "Dv3SrMxF",
+          "weapon": "Foil",
+          "gender": "Mixed",
+          "age_limit": "Senior",
+          "rating_limit": "Div3",
+          "rating": "E1",
+          "rating_prediction": null,
+          "entries": 8,
+          "prereg_count": 0,
+          "is_team": false,
+          "description": "",
+          "close_of_reg": "2011-01-09T13:00:00-05:00",
+          "fee": "0.00"
+        }
+      ]
+    }
+  ]
+}

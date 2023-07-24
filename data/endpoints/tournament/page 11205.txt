@@ -1,0 +1,104 @@
+{
+  "filters": {
+    "_sort": "start_date_asc"
+  },
+  "total_matched": 42043,
+  "page": 11205,
+  "per_page": 1,
+  "tournaments": [
+    {
+      "id": 13296,
+      "name": "52nd Chris Brown Memorial",
+      "start_date": "2011-01-09",
+      "end_date": "",
+      "comments": "52nd Annual Memorial Tournament for Blake Alum' Chris Brown\r\nPreregistration - $15.00 closes Midnight, Wednesday, before the event;\r\nOnsite or Late registration - $20.00",
+      "prereg_open": "2010-10-15",
+      "prereg_close": "2011-01-05",
+      "authority": "USFA",
+      "is_fee_required": false,
+      "is_roc": false,
+      "is_baycup": false,
+      "is_visible": true,
+      "is_cancelled": false,
+      "is_accepting_fees_online": false,
+      "more_info": "51st Annual Memorial Tournament for Blake Alum' Chris Brown\r\nUSFA Membership required\r\n\r\nEvents Scheduled:\r\nSenior Mixed Foil  -  9:00\r\nSenior Mixed Saber - 12:30\r\nSenior Mixed Epee  -  3:00\r\nSenior = fencer must be at least 13 years old as of January 1\r\n\r\nPreregistration - $15.00 closes Midnight, Wednesday, before the event;\r\nOnsite or Late registration - $20.00",
+      "venue": {
+        "name": "Minnesota Sword Club",
+        "address": "4744 Chicago Ave So",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55407",
+        "country": "USA",
+        "timezone": "America\/Chicago",
+        "latitude": 44.9165569,
+        "longitude": -93.2627998,
+        "geocode_precision": "street"
+      },
+      "division": {
+        "id": 35,
+        "name": "Minnesota",
+        "abbrev": "MN",
+        "auth": "USFA"
+      },
+      "events": [
+        {
+          "id": 56326,
+          "tournament_id": 13296,
+          "tournament": "52nd Chris Brown Memorial",
+          "full_name": "Senior Mixed Epee",
+          "short_name": "SrMxE",
+          "weapon": "Epee",
+          "gender": "Mixed",
+          "age_limit": "Senior",
+          "rating_limit": "Open",
+          "rating": "D1",
+          "rating_prediction": null,
+          "entries": 17,
+          "prereg_count": 0,
+          "is_team": false,
+          "description": "",
+          "close_of_reg": "2011-01-09T15:00:00-06:00",
+          "fee": "0.00"
+        },
+        {
+          "id": 56327,
+          "tournament_id": 13296,
+          "tournament": "52nd Chris Brown Memorial",
+          "full_name": "Senior Mixed Foil",
+          "short_name": "SrMxF",
+          "weapon": "Foil",
+          "gender": "Mixed",
+          "age_limit": "Senior",
+          "rating_limit": "Open",
+          "rating": "B1",
+          "rating_prediction": null,
+          "entries": 18,
+          "prereg_count": 0,
+          "is_team": false,
+          "description": "",
+          "close_of_reg": "2011-01-09T09:00:00-06:00",
+          "fee": "0.00"
+        },
+        {
+          "id": 56328,
+          "tournament_id": 13296,
+          "tournament": "52nd Chris Brown Memorial",
+          "full_name": "Senior Mixed Saber",
+          "short_name": "SrMxS",
+          "weapon": "Saber",
+          "gender": "Mixed",
+          "age_limit": "Senior",
+          "rating_limit": "Open",
+          "rating": "C1",
+          "rating_prediction": null,
+          "entries": 19,
+          "prereg_count": 0,
+          "is_team": false,
+          "description": "",
+          "close_of_reg": "2011-01-09T12:30:00-06:00",
+          "fee": "0.00"
+        }
+      ]
+    }
+  ]
+}

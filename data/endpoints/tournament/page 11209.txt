@@ -1,0 +1,66 @@
+{
+  "filters": {
+    "_sort": "start_date_asc"
+  },
+  "total_matched": 42043,
+  "page": 11209,
+  "per_page": 1,
+  "tournaments": [
+    {
+      "id": 13879,
+      "name": "MFA Friday Night Epee and Art Festival",
+      "start_date": "2011-01-14",
+      "end_date": "",
+      "comments": "This event is part of the San Rafael Art walk, with 3 new artists showing at the MFA art space. $20 fee. The top three fencers will receive a restaurant gift certificate. This has been a great event in the past. NOT USFA SANCTIONED!",
+      "prereg_open": "2010-12-26",
+      "prereg_close": "2011-01-13",
+      "authority": "USFA",
+      "is_fee_required": false,
+      "is_roc": false,
+      "is_baycup": false,
+      "is_visible": true,
+      "is_cancelled": false,
+      "is_accepting_fees_online": false,
+      "more_info": "This event is not USFA sanctioned - part of the San Rafael Art walk, with 3 new artists showing at the MFA. $20 fee. The top three fencers will receive a restaurant gift certificate. This has been a great event in the past. Food and refreshments provided.\r\n\r\nEvents Scheduled:\r\nMixed Epee\r\n\r\n\r\n\r\nPreregistration opens on 12\/26\/2010.\r\nPreregistration closes on 01\/13\/2011.\r\n\r\n\r\n",
+      "venue": {
+        "name": "Marin Fencing Academy",
+        "address": "827 Fourth Street",
+        "city": "San Rafael",
+        "state": "CA",
+        "zip": "94901",
+        "country": "USA",
+        "timezone": "America\/Los_Angeles",
+        "latitude": 37.972577,
+        "longitude": -122.524444,
+        "geocode_precision": "street"
+      },
+      "division": {
+        "id": 6,
+        "name": "Northern California",
+        "abbrev": "NORCAL",
+        "auth": "USFA"
+      },
+      "events": [
+        {
+          "id": 59849,
+          "tournament_id": 13879,
+          "tournament": "MFA Friday Night Epee and Art Festival",
+          "full_name": "Mixed Epee",
+          "short_name": "MxE",
+          "weapon": "Epee",
+          "gender": "Mixed",
+          "age_limit": "None",
+          "rating_limit": "Open",
+          "rating": "B1",
+          "rating_prediction": null,
+          "entries": 18,
+          "prereg_count": 0,
+          "is_team": false,
+          "description": "",
+          "close_of_reg": "2011-01-14T18:30:00-08:00",
+          "fee": "0.00"
+        }
+      ]
+    }
+  ]
+}s

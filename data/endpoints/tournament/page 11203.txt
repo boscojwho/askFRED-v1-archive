@@ -1,0 +1,66 @@
+{
+  "filters": {
+    "_sort": "start_date_asc"
+  },
+  "total_matched": 42043,
+  "page": 11203,
+  "per_page": 1,
+  "tournaments": [
+    {
+      "id": 13775,
+      "name": "CFC Men's Foil U",
+      "start_date": "2011-01-09",
+      "end_date": "",
+      "comments": "Men's Foil U.  Ages 13 & up.  MD Division Sanctioned.  Registration closes 12:30 p.m.  Entry fee $20.",
+      "prereg_open": "2010-12-04",
+      "prereg_close": "2011-01-06",
+      "authority": "USFA",
+      "is_fee_required": false,
+      "is_roc": false,
+      "is_baycup": false,
+      "is_visible": true,
+      "is_cancelled": false,
+      "is_accepting_fees_online": false,
+      "more_info": "",
+      "venue": {
+        "name": "Chesapeake Fencing Club",
+        "address": "201 Homeland Avenue",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21212",
+        "country": "USA",
+        "timezone": "America\/New_York",
+        "latitude": 39.3536722,
+        "longitude": -76.6176749,
+        "geocode_precision": "street"
+      },
+      "division": {
+        "id": 28,
+        "name": "Maryland",
+        "abbrev": "MD",
+        "auth": "USFA"
+      },
+      "events": [
+        {
+          "id": 59393,
+          "tournament_id": 13775,
+          "tournament": "CFC Men's Foil U",
+          "full_name": "Unrated Senior Men's Foil",
+          "short_name": "U-SrMF",
+          "weapon": "Foil",
+          "gender": "Men",
+          "age_limit": "Senior",
+          "rating_limit": "Unrated",
+          "rating": "E1",
+          "rating_prediction": null,
+          "entries": 10,
+          "prereg_count": 0,
+          "is_team": false,
+          "description": "",
+          "close_of_reg": "2011-01-09T12:30:00-05:00",
+          "fee": "0.00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "filters": {
+    "_sort": "start_date_asc"
+  },
+  "total_matched": 42043,
+  "page": 11202,
+  "per_page": 1,
+  "tournaments": [
+    {
+      "id": 12488,
+      "name": "Ralph Goldstein Memorial Epee Open",
+      "start_date": "2011-01-09",
+      "end_date": "",
+      "comments": "Custom medals 1-8 places. Reproduction swords for 1-3 place. Medals 1-8 places.\r\n$20 pre reg. $25 at door.$5 checkin fee at door. All \"A's\" enter free in this event if pre-registered.",
+      "prereg_open": "2010-08-27",
+      "prereg_close": "2011-01-07",
+      "authority": "USFA",
+      "is_fee_required": false,
+      "is_roc": false,
+      "is_baycup": false,
+      "is_visible": true,
+      "is_cancelled": false,
+      "is_accepting_fees_online": false,
+      "more_info": "",
+      "venue": {
+        "name": "CFC",
+        "address": "272 White Street",
+        "city": "Danbury",
+        "state": "CT",
+        "zip": "06810",
+        "country": "USA",
+        "timezone": "America\/New_York",
+        "latitude": "",
+        "longitude": "",
+        "geocode_precision": "none"
+      },
+      "division": {
+        "id": 39,
+        "name": "Connecticut",
+        "abbrev": "CT",
+        "auth": "USFA"
+      },
+      "events": [
+        {
+          "id": 53236,
+          "tournament_id": 12488,
+          "tournament": "Ralph Goldstein Memorial Epee Open",
+          "full_name": "Senior Mixed Epee",
+          "short_name": "SrMxE",
+          "weapon": "Epee",
+          "gender": "Mixed",
+          "age_limit": "Senior",
+          "rating_limit": "Open",
+          "rating": "B2",
+          "rating_prediction": null,
+          "entries": 26,
+          "prereg_count": 0,
+          "is_team": false,
+          "description": "",
+          "close_of_reg": "2011-01-09T10:00:00-05:00",
+          "fee": "0.00"
+        }
+      ]
+    }
+  ]
+}
